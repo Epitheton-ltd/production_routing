@@ -1,0 +1,196 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:product.product-production.bom,routing:"
+msgid "Routing"
+msgstr "Smerovanie"
+
+msgctxt "field:production,routing:"
+msgid "Routing"
+msgstr "Smerovanie"
+
+msgctxt "field:production.lead_time,routing:"
+msgid "Routing"
+msgstr "Smerovanie"
+
+msgctxt "field:production.routing,active:"
+msgid "Active"
+msgstr "Aktívny"
+
+msgctxt "field:production.routing,boms:"
+msgid "BOMs"
+msgstr ""
+
+msgctxt "field:production.routing,create_date:"
+msgid "Create Date"
+msgstr ""
+
+msgctxt "field:production.routing,create_uid:"
+msgid "Create User"
+msgstr ""
+
+msgctxt "field:production.routing,id:"
+msgid "ID"
+msgstr ""
+
+msgctxt "field:production.routing,name:"
+msgid "Name"
+msgstr "Názov"
+
+msgctxt "field:production.routing,rec_name:"
+msgid "Record Name"
+msgstr ""
+
+msgctxt "field:production.routing,steps:"
+msgid "Steps"
+msgstr "Kroky"
+
+msgctxt "field:production.routing,write_date:"
+msgid "Write Date"
+msgstr ""
+
+msgctxt "field:production.routing,write_uid:"
+msgid "Write User"
+msgstr ""
+
+msgctxt "field:production.routing-production.bom,bom:"
+msgid "BOM"
+msgstr ""
+
+msgctxt "field:production.routing-production.bom,create_date:"
+msgid "Create Date"
+msgstr ""
+
+msgctxt "field:production.routing-production.bom,create_uid:"
+msgid "Create User"
+msgstr ""
+
+msgctxt "field:production.routing-production.bom,id:"
+msgid "ID"
+msgstr ""
+
+msgctxt "field:production.routing-production.bom,rec_name:"
+msgid "Record Name"
+msgstr ""
+
+#, fuzzy
+msgctxt "field:production.routing-production.bom,routing:"
+msgid "Routing"
+msgstr "Routings"
+
+msgctxt "field:production.routing-production.bom,write_date:"
+msgid "Write Date"
+msgstr ""
+
+msgctxt "field:production.routing-production.bom,write_uid:"
+msgid "Write User"
+msgstr ""
+
+msgctxt "field:production.routing.operation,active:"
+msgid "Active"
+msgstr ""
+
+msgctxt "field:production.routing.operation,create_date:"
+msgid "Create Date"
+msgstr ""
+
+msgctxt "field:production.routing.operation,create_uid:"
+msgid "Create User"
+msgstr ""
+
+msgctxt "field:production.routing.operation,id:"
+msgid "ID"
+msgstr ""
+
+msgctxt "field:production.routing.operation,name:"
+msgid "Operation"
+msgstr "Operácia"
+
+msgctxt "field:production.routing.operation,rec_name:"
+msgid "Record Name"
+msgstr "Názov položky"
+
+msgctxt "field:production.routing.operation,write_date:"
+msgid "Write Date"
+msgstr ""
+
+msgctxt "field:production.routing.operation,write_uid:"
+msgid "Write User"
+msgstr ""
+
+msgctxt "field:production.routing.step,create_date:"
+msgid "Create Date"
+msgstr ""
+
+msgctxt "field:production.routing.step,create_uid:"
+msgid "Create User"
+msgstr ""
+
+msgctxt "field:production.routing.step,id:"
+msgid "ID"
+msgstr ""
+
+msgctxt "field:production.routing.step,operation:"
+msgid "Operation"
+msgstr "Operácia"
+
+msgctxt "field:production.routing.step,rec_name:"
+msgid "Record Name"
+msgstr "Názov položky"
+
+msgctxt "field:production.routing.step,routing:"
+msgid "Routing"
+msgstr "Smerovanie"
+
+msgctxt "field:production.routing.step,sequence:"
+msgid "Sequence"
+msgstr "Sekvencia"
+
+msgctxt "field:production.routing.step,write_date:"
+msgid "Write Date"
+msgstr ""
+
+msgctxt "field:production.routing.step,write_uid:"
+msgid "Write User"
+msgstr ""
+
+msgctxt "help:production.routing,active:"
+msgid "Uncheck to exclude from future use."
+msgstr ""
+
+msgctxt "help:production.routing.operation,active:"
+msgid "Uncheck to exclude from future use."
+msgstr ""
+
+msgctxt "model:ir.action,name:act_operation_list"
+msgid "Operations"
+msgstr "Operácie"
+
+msgctxt "model:ir.action,name:act_routing_list"
+msgid "Routings"
+msgstr "Smerovania"
+
+msgctxt "model:ir.ui.menu,name:menu_operation_list"
+msgid "Operations"
+msgstr "Operácie"
+
+msgctxt "model:ir.ui.menu,name:menu_routing_list"
+msgid "Routings"
+msgstr "Smerovania"
+
+msgctxt "model:production.routing,name:"
+msgid "Routing"
+msgstr "Smerovanie"
+
+msgctxt "model:production.routing-production.bom,name:"
+msgid "Routing - BOM"
+msgstr "Smerovanie - BOM"
+
+msgctxt "model:production.routing.operation,name:"
+msgid "Operation"
+msgstr "Operácia"
+
+msgctxt "model:production.routing.step,name:"
+msgid "Route"
+msgstr "Smeruj"
