@@ -156,11 +156,11 @@ msgstr "Editado por"
 
 msgctxt "help:production.routing,active:"
 msgid "Uncheck to exclude from future use."
-msgstr ""
+msgstr "Desmarque para não usar futuramente."
 
 msgctxt "help:production.routing.operation,active:"
 msgid "Uncheck to exclude from future use."
-msgstr ""
+msgstr "Desmarque para não usar futuramente."
 
 #, fuzzy
 msgctxt "model:ir.action,name:act_operation_list"
